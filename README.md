@@ -1,58 +1,58 @@
 # PHYS121 at SFU
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/coulombslaw.pdf](Homework 1 - Coulomb's Law)
+[Homework 1 - Coulomb's Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/coulombslaw.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/electricfield.pdf](Homework 2 - Electric Fields)
+[Homework 2 - Electric Fields](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electricfield.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/electricflux.pdf](Homework 3 - Electric Flux and Field Lines)
+[Homework 3 - Electric Flux and Field Lines](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electricflux.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/gausslaw.pdf](Homework 4 - Gauss' Law)
+[Homework 4 - Gauss' Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/gausslaw.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/electricpotentialenergy.pdf](Homework 5 - Electric Potential Energy)
+[Homework 5 - Electric Potential Energy](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electricpotentialenergy.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/electricpotential.pdf](Homework 6 - Electric Potential)
+[Homework 6 - Electric Potential](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electricpotential.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/conductorsandcapacitance.pdf](Homework 7 - Conductors and Capacitance)
+[Homework 7 - Conductors and Capacitance](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/conductorsandcapacitance.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/capacitors.pdf](Homework 8 - Capacitors)
+[Homework 8 - Capacitors](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/capacitors.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/electriccurrent.pdf](Homework 9 - Electric Current)
+[Homework 9 - Electric Current](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electriccurrent.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/kirchhoffsrules.pdf](Homework 10 - Kirchhoff's Rules)
+[Homework 10 - Kirchhoff's Rules](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/kirchhoffsrules.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/rccircuits.pdf](Homework 11 - RC Circuits)
+[Homework 11 - RC Circuits](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/rccircuits.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/magnetism.pdf](Homework 12 - Magnetism)
+[Homework 12 - Magnetism](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/magnetism.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/forces.pdf](Homework 13 - Forces and Torques on Currents)
+[Homework 13 - Forces and Torques on Currents](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/forces.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/biotsavartlaw.pdf](Homework 14 - Biot-Savart Law)
+[Homework 14 - Biot-Savart Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/biotsavartlaw.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/ampereslaw.pdf](Homework 15 - Ampere's Law)
+[Homework 15 - Ampere's Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/ampereslaw.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/motionalemf.pdf](Homework 16 - Motional EMF)
+[Homework 16 - Motional EMF](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/motionalemf.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/faradayslaw.pdf](Homework 17 - Faradays Law)
+[Homework 17 - Faradays Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/faradayslaw.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/induction.pdf](Homework 18 - Induction and RL Circuits)
+[Homework 18 - Induction and RL Circuits](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/induction.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/lccircuits.pdf](Homework 19 - LC and RLC Circuits)
+[Homework 19 - LC and RLC Circuits](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/lccircuits.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/accircuits.pdf](Homework 20 - AC Circuits)
+[Homework 20 - AC Circuits](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/accircuits.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/resonance.pdf](Homework 21 - AC Circuits:  Resonance)
+[Homework 21 - AC Circuits:  Resonance](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/resonance.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/displacement.pdf](Homework 22 - Displacement)
+[Homework 22 - Displacement](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/displacement.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/electromagneticwaves.pdf](Homework 23 - Properties of Electromagnetic Waves)
+[Homework 23 - Properties of Electromagnetic Waves](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electromagneticwaves.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/polarization.pdf](Homework 24 - Polarization)
+[Homework 24 - Polarization](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/polarization.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/reflection.pdf](Homework 25 - Reflection and Refraction)
+[Homework 25 - Reflection and Refraction](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/reflection.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/lenses.pdf](Homework 26 - Lenses)
+[Homework 26 - Lenses](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/lenses.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/mirrors.pdf](Homework 27 - Mirrors)
+[Homework 27 - Mirrors](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/mirrors.pdf)
 
-[https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/infinite_line_of_charge.png/opticalinstruments.pdf](Homework 28 - Optical Instruments)
+[Homework 28 - Optical Instruments](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/opticalinstruments.pdf)
 
