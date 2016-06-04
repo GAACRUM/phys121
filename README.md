@@ -1,6 +1,6 @@
 # PHYS121 at SFU
 
-###[Wiki](wiki)
+###[Wiki](https://github.com/cwaffles/phys121/wiki)
 
 ###Homework
 
