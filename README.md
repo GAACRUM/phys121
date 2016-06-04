@@ -1,5 +1,9 @@
 # PHYS121 at SFU
 
+###[Wiki](wiki)
+
+###Homework
+
 [Homework 1 - Coulomb's Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/coulombslaw.pdf)
 
 [Homework 2 - Electric Fields](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/electricfield.pdf)
