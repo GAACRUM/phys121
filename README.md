@@ -1,8 +1,8 @@
 # PHYS121 at SFU
 
-###[Wiki](https://github.com/cwaffles/phys121/wiki)
+### [Wiki](https://github.com/cwaffles/phys121/wiki)
 
-###Homework
+### Homework
 
 [Homework 1 - Coulomb's Law](https://raw.githubusercontent.com/cwaffles/phys121/master/Homework_Solutions/coulombslaw.pdf)
 
