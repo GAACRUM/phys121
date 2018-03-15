@@ -1,4 +1,4 @@
-# PHYS121 at SFU
+# SmartPhysics Electromagnetism / PHYS121 at SFU
 
 ### [Wiki](https://github.com/cwaffles/phys121/wiki)
 
